@@ -6,3 +6,4 @@
 let guest = 'Jane';
 let admin = 'Pete';
 ```
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
